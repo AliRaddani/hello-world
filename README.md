@@ -1,2 +1,3 @@
 # hello-world
-HW3-Part3
+Hello World from me to all living creatures.
+lets finish this degree and hope for the best to come ....
